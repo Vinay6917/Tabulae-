@@ -75,10 +75,4 @@ The DataDiggers project focuses on detecting fraudulent transactions in online r
 - **Targeted marketing**: Segmentation allows personalized promotions and increased customer retention.  
 - **Dynamic pricing strategies**: Adjusting prices based on customer behavior and regional trends.  
 
----
 
-## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/DataDiggers_Project.git
-   cd DataDiggers_Project
